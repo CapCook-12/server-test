@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "070aa85d-68c2-39f2-9199-1764ea37f40d",
+    "name": "Parzival",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
